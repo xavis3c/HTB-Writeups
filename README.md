@@ -1,7 +1,5 @@
 # HTB-Writeups
 
-# Hack The Box Writeups
-
 Bienvenido a mi repositorio de **Hack The Box**, donde documentaré la resolución de máquinas y desafíos de seguridad informática. Aquí encontrarás writeups detallados de las máquinas que he resuelto, junto con análisis de vulnerabilidades y métodos de explotación.
 
 ## 📌 ¿Qué encontrarás aquí?
