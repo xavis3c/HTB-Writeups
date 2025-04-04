@@ -1,6 +1,8 @@
 
 # OnlyHacks – Hack The Box
 
+![](https://github.com/xavis3c/Writeups-dockerlabs/blob/Recursos/HTB-XSS.jpg)
+
 **Categoría:** Challenges  
 **Fecha:** Abril 4, 2025
 
